@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.env
+*.log
+venv/
+.DS_Store
+
+
+*.env
+venv/
+*.egg-info/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Large files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.zip
+
+# Editor and OS files
+.DS_Store
+*.swp
+*.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# Docker
+docker-compose.override.yml
+
